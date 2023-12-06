@@ -18,7 +18,7 @@ The primary goal of this application is to automate the tissue analysis process 
 
 ## Presentation
 
-The application was presented at the SoftCOM conference as part of a research paper, showcasing its capabilities and contributions to the field.
+The application was presented at the **SoftCOM conference** as part of a research paper, showcasing its capabilities and contributions to the field.
 
 ## Technologies Used
 
