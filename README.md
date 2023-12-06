@@ -1,6 +1,6 @@
 # Digital Tissue Image Analysis Application
 
-An application developed for the analysis of digital tissue images using the TIA library, created as part of a master's thesis.
+An application developed for the analysis of digital tissue images using the TIA library, created as part of a **master's thesis**.
 
 ## Overview
 
